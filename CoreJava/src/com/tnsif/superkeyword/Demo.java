@@ -1,4 +1,7 @@
-package superkeyword;
+package com.tnsif.superkeyword;
+
+import superkeyword.Demo;
+import superkeyword.Superex;
 
 public class Demo extends Superex {
 	int a=7;
