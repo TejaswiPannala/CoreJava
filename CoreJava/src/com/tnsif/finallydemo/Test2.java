@@ -13,8 +13,9 @@ public class Test2 {
 //		}
 		finally {
 			System.out.println("finally");
+			System.out.println("end");
 		}
-		System.out.println("end");
+	
 	}
 
 }
