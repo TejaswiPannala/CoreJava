@@ -5,7 +5,7 @@ public class Implementingrunnable implements Runnable {
 	public static void main(String[] args) {
 		Implementingrunnable e=new Implementingrunnable();
 		//e.start();
-		Thread t1=new Thread();
+		Thread t1=new Thread(e);
 		t1.start();
 	}
 
